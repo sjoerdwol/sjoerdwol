@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjoerdwol
-- 👀 I’m interested in gaming, streaming and coding
+- 👀 I’m interested in coding, gaming and football (Sport-Club Freiburg e.V.)
 - 🌱 I’m currently learning how to become a front-end engineer
 - 📫 How to reach me: LinkedIn @sjoerdwol or Twitter @realwatsn
 
