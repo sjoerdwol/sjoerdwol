@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me:
 - 👋 Hi, I’m Sjoerd, 22 years old
-- 🔭 I'm currently working as a Software Test Engineer
+- 🔭 I'm currently working as a Software Engineer
 - 👀 I’m interested in coding, gaming and football (Sport-Club Freiburg e.V.)
 - 🌱 I’m learning how to become a Frontend Engineer on Codecademy
 - 📫 How to reach me: see my socials up top 😄
