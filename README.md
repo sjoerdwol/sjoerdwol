@@ -38,7 +38,9 @@
 
 ### 📄 Pages I work on:
 <div id="pages_badges">
-  <img src="https://img.shields.io/badge/Portfolio-4D2B1A?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://sjoerdwol.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-4D2B1A?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
+    </a>
 </div>
 
 <!---
