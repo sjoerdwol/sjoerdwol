@@ -36,6 +36,11 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
 </div>
 
+### 📄 Pages I work on:
+<div id="pages_badges">
+  <img src="https://img.shields.io/badge/Portfolio-4D2B1A?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
+</div>
+
 <!---
 sjoerdwol/sjoerdwol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
