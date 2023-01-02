@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
 </div>
 
-### 📄 Pages I work on:
+### 📄 Live Pages I work on:
 <div id="pages_badges">
   <a href="https://sjoerdwol.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-4D2B1A?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
