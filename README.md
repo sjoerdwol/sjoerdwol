@@ -45,7 +45,10 @@
 <div id="pages_badges">
   <a href="https://sjoerdwol.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-121B28?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
-    </a>
+  </a>
+  <a href="https://sjoerdwol.github.io/reddit-clone/">
+      <img src="https://img.shields.io/badge/Minimal Reddit Clone-121B28?style=for-the-badge&logo=reddit&logoColor=16a34a" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 <!---
