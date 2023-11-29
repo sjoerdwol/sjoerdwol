@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/sjoerdwol">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/realwatsn">
+    <a href="https://twitter.com/sjoerd_wol">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://www.instagram.com/sjoerd_w/">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me:
 - 👋 Hi, I’m Sjoerd, 22 years old
-- 🔭 I currently work as a Software Engineer
+- 🔭 I currently work as a Software Engineer Test Automation
 - 👀 I’m interested in coding, gaming and football (Sport-Club Freiburg e.V.)
 - 🌱 I’m learning how to become a Frontend Engineer on Codecademy
 - 📫 How to reach me: see my socials up top 😄
@@ -43,12 +43,6 @@
 
 ### 📄 Live Pages I work on:
 <div id="pages_badges">
-  <a href="https://sjoerdwol.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-121B28?style=for-the-badge&logo=apachecordova&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://sjoerdwol.github.io/reddit-clone/">
-      <img src="https://img.shields.io/badge/Minimal Reddit Clone-121B28?style=for-the-badge&logo=reddit&logoColor=16a34a" alt="Portfolio Badge"/>
-  </a>
 </div>
 
 <!---
