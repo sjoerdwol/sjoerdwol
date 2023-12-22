@@ -26,12 +26,7 @@
 <div id="tech_stack_badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-rgb(55, 55, 55)?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/React-rgb(25, 25, 25)?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge"/>
-  <img src="https://img.shields.io/badge/Testing Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library Badge"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge"/>
   <img src="https://img.shields.io/badge/Cucumber-rgb(40, 40, 40)?style=for-the-badge&logo=cucumber&logoColor=23D96C" alt="Cucumber Badge"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube Badge"/>
