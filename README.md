@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-rgb(55, 55, 55)?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=fff" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress Badge"/>
   <img src="https://img.shields.io/badge/Cucumber-rgb(40, 40, 40)?style=for-the-badge&logo=cucumber&logoColor=23D96C" alt="Cucumber Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
